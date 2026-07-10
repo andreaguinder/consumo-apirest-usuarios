@@ -1,8 +1,6 @@
-import React from "react";
 import styles from "./UsuarioCard.module.scss"
 
 function UsuarioCard({ usuario }) {
-
 
     return (
         <div className={styles.card}>
